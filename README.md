@@ -62,11 +62,9 @@ Steps: 22      Time: 1615ms     Visited: 179     Cost: 37
 
 👨‍💻 Team Members
 
-Mayank Sharma
-
+Vikas Saini<br/>
+Mayank Sharma<br/>
 Vipul Kumar
-
-Vikas Saini
 
 <hr/>
 
